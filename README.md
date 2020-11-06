@@ -17,4 +17,4 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 ## Acknowledgments
 
-* I would like to extend my gratitude to **THE SPARKS FOUNDATION** organization for providing me this wonderful internship to learn and perform more!!
+* I would like to extend my gratitude to **THE SPARKS FOUNDATION** organization for providing me this wonderful opportunity to learn and perform better!!
