@@ -15,6 +15,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 - Task 2 - Decision Tree Regressor 
 
+- Task 3 - K Means clustering
 
 
 ## Acknowledgments
